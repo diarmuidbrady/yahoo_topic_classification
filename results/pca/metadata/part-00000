@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.PCA","timestamp":1671209127483,"sparkVersion":"3.2.2","uid":"PCA_34a4419746a6","paramMap":{"k":2,"inputCol":"TF-IDF","outputCol":"pca_features"},"defaultParamMap":{"outputCol":"PCA_34a4419746a6__output"}}
