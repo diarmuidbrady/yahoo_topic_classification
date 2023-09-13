@@ -1,4 +1,4 @@
-# ca4022_yahoo_topic_classification
+# Yahoo Topic Classification
 
 This is the shared repository of Diarmuid Brady and Joseph Oluwasanya. It contains all the code and details of our Big Data Yahoo Topic Classification team project as part of the CA4022 Data at Speed and Scale Final Assignment.
 
