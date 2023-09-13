@@ -12,9 +12,9 @@ This is the shared repository of Diarmuid Brady and Joseph Oluwasanya. It contai
 There are a number of directories each of which has a specific purpose.
 
 ## Data
-- This contains all the data required for the assignment. This folder is included in the .gitignore and therefore is not present on Github. To find the data visit [Yahoo Topic Classification on Kaggle](https://www.kaggle.com/datasets/bhavikardeshna/yahoo-email-classification?select=train.csv)
+- This contains all the data required for the assignment. This folder is included in the .gitignore and therefore is not present on GitHub. To find the data visit [Yahoo Topic Classification on Kaggle](https://www.kaggle.com/datasets/bhavikardeshna/yahoo-email-classification?select=train.csv)
 - The data contains 2 million samples (1.4 million training and 60,000 test).
-- There are 10 topics and the data samples are split evenly between each topics (140,000 for each topic)
+- There are 10 topics and the data samples are split evenly between each topic (140,000 for each topic)
 - The ten topics include 
 	- Society & Culture
 	- Science & Mathematics
@@ -29,15 +29,15 @@ There are a number of directories each of which has a specific purpose.
 
 ## Deliverables
 The deliverables contain the following:
-- Midway Report (500 words) describing the dataset, technology, analytics and the plan for team roles
-- Final Report (3 pages) describing the project analysis and findings
-- ScreenCast (5 minutes) demonstrating each of the components of our analysis running
+- [Midway Report](deliverables/Midway_Report.pdf) (500 words) describing the dataset, technology, analytics, and the plan for team roles
+- [Final Report](deliverables/Yahoo_classification_writeup.pdf) (3 pages) describing the project analysis and findings
+- [ScreenCast](deliverables/code_runthrough.mp4) (5 minutes) demonstrating each of the components of our analysis running
 
 ## Environments
-Environments contain the environment file we used to set up our Anaconda environment call yahoo.
+Environments contain the environment file we used to set up our Anaconda environment called yahoo.
 
 ## Notebooks
-Notebooks consists of several jupyter notebooks that contain all the code including cleaning, processing, feature engineering, modelling and visualization.
+Notebooks consist of several Jupyter Notebooks that contain all the code including cleaning, processing, feature engineering, modeling, and visualization.
 
 ## Specification
 Specification contains the original specification and requirement details for our assignment.
