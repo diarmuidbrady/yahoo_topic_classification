@@ -6,7 +6,7 @@ This is the shared repository of Diarmuid Brady and Joseph Oluwasanya. It contai
 - We compared the performance of Linear Support Vector Machines and Random Forest at classifying the Yahoo Answer topics using a TF-IDF document embedding.
 - The Support Vector Machine outperformed the Random Forest producing an accuracy of 64% when predicting across all 10 topics.
 - These results are comparable to results obtained from an LSTM of 68%
-- Therefore, we believe that simple linear classifiers are still very powerful and much less computationally expensive than more complex deep learning architectures.
+- Therefore, we believe that the use of simple linear classifiers is still merited as they are still very powerful and much less computationally expensive than more complex deep learning architectures.
 
 # File Structure
 There are a number of directories each of which has a specific purpose.
